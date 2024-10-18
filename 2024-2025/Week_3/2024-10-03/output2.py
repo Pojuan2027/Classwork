@@ -4,4 +4,4 @@
 print('Juan')
 print('Moises')
 print('Martinez')
-print('juan''Moises''Martinez')
+print('juan','Moises','Martinez')
